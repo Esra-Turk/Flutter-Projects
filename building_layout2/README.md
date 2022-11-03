@@ -1,16 +1,11 @@
-# building_layout2
+# Bulding Layout
 
 A new Flutter project.
 
-## Getting Started
+### Splash Page
 
-This project is a starting point for a Flutter application.
+![odev4-1(1)(1)](https://user-images.githubusercontent.com/74728647/199797015-9a208af9-e4db-4ccc-87f7-2e08c5bfa697.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Login Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![odev4-2(1)(1)](https://user-images.githubusercontent.com/74728647/199797006-1b8d3913-3600-4dd5-ab9a-f5de389846b4.png)
