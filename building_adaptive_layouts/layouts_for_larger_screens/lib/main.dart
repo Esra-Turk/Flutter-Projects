@@ -27,7 +27,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePage extends State<HomePage> {
   int number = 1;
-  bool status = true;
+  bool status = false;
 
   void setNumber(int number) {
     setState(() {
