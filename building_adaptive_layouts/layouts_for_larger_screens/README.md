@@ -2,7 +2,7 @@
 
 Screen video of the app
 
-[video](https://www.youtube.com/watch?v=0cEr5eKd4Wo)
+[video](https://www.youtube.com/watch?v=z1UDmPZe1Ro)
 
 A new Flutter project.
 
